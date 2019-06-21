@@ -56,9 +56,9 @@ File = "./device-simple.log"
 
 # Pre-define Devices
 [[DeviceList]]
-  Name = "Simple-Device01"
-  Profile = "Simple-Device"
-  Description = "Example of Simple Device"
+  Name = "Device-adsb"
+  Profile = "Device-adsb"
+  Description = "Device adsb in sdr"
   Labels = [ "industrial" ]
   [DeviceList.Protocols]
     [DeviceList.Protocols.other]
