@@ -1,7 +1,6 @@
 module github.com/FanQiang28/device-adsb
 
 require (
-	github.com/xinminsu/go-mod-core-contracts v0.1.3
 	github.com/edgexfoundry/go-mod-registry v0.1.0
 	github.com/google/uuid v1.1.0
 	github.com/gorilla/context v0.0.0-20181012153548-51ce91d2eadd // indirect
@@ -10,5 +9,6 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.3.0
 	github.com/ugorji/go v1.1.4
+	github.com/xinminsu/go-mod-core-contracts v0.1.4
 	gopkg.in/yaml.v2 v2.2.2
 )
