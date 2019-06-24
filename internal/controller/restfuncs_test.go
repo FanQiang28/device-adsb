@@ -17,8 +17,8 @@ import (
 
 	"github.com/FanQiang28/device-adsb/internal/common"
 	"github.com/FanQiang28/device-adsb/internal/mock"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
+	"github.com/xinminsu/go-mod-core-contracts/clients"
+	"github.com/xinminsu/go-mod-core-contracts/clients/logger"
 	"github.com/gorilla/mux"
 )
 

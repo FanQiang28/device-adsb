@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/types"
+	"github.com/xinminsu/go-mod-core-contracts/clients/types"
 	"github.com/edgexfoundry/go-mod-registry/registry"
 )
 

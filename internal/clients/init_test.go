@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/FanQiang28/device-adsb/internal/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
+	"github.com/xinminsu/go-mod-core-contracts/clients/logger"
 )
 
 func TestInitializeLoggingClientByFile(test *testing.T) {

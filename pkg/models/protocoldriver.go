@@ -13,8 +13,8 @@
 package models
 
 import (
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/xinminsu/go-mod-core-contracts/clients/logger"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 // ProtocolDriver is a low-level device-specific interface used by

@@ -11,7 +11,7 @@ package common
 import (
 	"fmt"
 
-	dsModels "github.com/edgexfoundry/go-mod-core-contracts/models"
+	dsModels "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 // WritableInfo is a struct which contains configuration settings that can be changed in the Registry .

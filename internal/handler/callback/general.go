@@ -11,7 +11,7 @@ import (
 	"fmt"
 
 	"github.com/FanQiang28/device-adsb/internal/common"
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 func CallbackHandler(cbAlert contract.CallbackAlert, method string) common.AppError {

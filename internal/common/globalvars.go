@@ -8,10 +8,10 @@ package common
 
 import (
 	dsModels "github.com/FanQiang28/device-adsb/pkg/models"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/coredata"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/metadata"
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/xinminsu/go-mod-core-contracts/clients/coredata"
+	"github.com/xinminsu/go-mod-core-contracts/clients/logger"
+	"github.com/xinminsu/go-mod-core-contracts/clients/metadata"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 var (

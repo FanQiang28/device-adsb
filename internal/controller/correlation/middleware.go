@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/FanQiang28/device-adsb/internal/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
+	"github.com/xinminsu/go-mod-core-contracts/clients"
 	"github.com/google/uuid"
 )
 

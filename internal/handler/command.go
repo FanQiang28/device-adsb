@@ -19,7 +19,7 @@ import (
 	"github.com/FanQiang28/device-adsb/internal/common"
 	"github.com/FanQiang28/device-adsb/internal/transformer"
 	dsModels "github.com/FanQiang28/device-adsb/pkg/models"
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 // Note, every HTTP request to ServeHTTP is made in a separate goroutine, which

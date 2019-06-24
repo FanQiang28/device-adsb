@@ -10,7 +10,7 @@ package cache
 import (
 	"fmt"
 
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 var (

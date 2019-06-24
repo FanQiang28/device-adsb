@@ -20,8 +20,8 @@ import (
 	"time"
 
 	dsModels "github.com/FanQiang28/device-adsb/pkg/models"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/xinminsu/go-mod-core-contracts/clients/logger"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 )
 
 type SimpleDriver struct {

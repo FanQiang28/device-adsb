@@ -9,7 +9,7 @@
 package common
 
 import (
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
+	"github.com/xinminsu/go-mod-core-contracts/clients"
 )
 
 const (

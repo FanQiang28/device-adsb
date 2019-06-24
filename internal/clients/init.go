@@ -17,11 +17,11 @@ import (
 	"github.com/FanQiang28/device-adsb/internal/common"
 	"github.com/FanQiang28/device-adsb/internal/config"
 	"github.com/FanQiang28/device-adsb/internal/endpoint"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/coredata"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/metadata"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/types"
+	"github.com/xinminsu/go-mod-core-contracts/clients"
+	"github.com/xinminsu/go-mod-core-contracts/clients/coredata"
+	"github.com/xinminsu/go-mod-core-contracts/clients/logger"
+	"github.com/xinminsu/go-mod-core-contracts/clients/metadata"
+	"github.com/xinminsu/go-mod-core-contracts/clients/types"
 )
 
 const clientCount int = 8

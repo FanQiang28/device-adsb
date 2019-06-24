@@ -12,7 +12,7 @@ import (
 
 	"github.com/FanQiang28/device-adsb/internal/common"
 	"github.com/FanQiang28/device-adsb/internal/mock"
-	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
+	contract "github.com/xinminsu/go-mod-core-contracts/models"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 )
