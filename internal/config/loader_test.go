@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/common"
 	"github.com/edgexfoundry/go-mod-registry/pkg/types"
 	"github.com/edgexfoundry/go-mod-registry/registry"
 )

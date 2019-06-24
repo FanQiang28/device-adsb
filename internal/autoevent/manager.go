@@ -8,10 +8,10 @@ package autoevent
 
 import (
 	"fmt"
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/common"
 	"sync"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/cache"
+	"github.com/FanQiang28/device-adsb/internal/cache"
 	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
 )
 

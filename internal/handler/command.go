@@ -15,10 +15,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/cache"
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
-	"github.com/edgexfoundry/device-sdk-go/internal/transformer"
-	dsModels "github.com/edgexfoundry/device-sdk-go/pkg/models"
+	"github.com/FanQiang28/device-adsb/internal/cache"
+	"github.com/FanQiang28/device-adsb/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/transformer"
+	dsModels "github.com/FanQiang28/device-adsb/pkg/models"
 	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
 )
 

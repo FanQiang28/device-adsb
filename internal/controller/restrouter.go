@@ -10,8 +10,8 @@ package controller
 import (
 	"net/http"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
-	"github.com/edgexfoundry/device-sdk-go/internal/controller/correlation"
+	"github.com/FanQiang28/device-adsb/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/controller/correlation"
 	"github.com/gorilla/mux"
 )
 

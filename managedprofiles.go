@@ -12,9 +12,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/cache"
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
-	"github.com/edgexfoundry/device-sdk-go/internal/provision"
+	"github.com/FanQiang28/device-adsb/internal/cache"
+	"github.com/FanQiang28/device-adsb/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/provision"
 	contract "github.com/edgexfoundry/go-mod-core-contracts/models"
 	"github.com/google/uuid"
 )

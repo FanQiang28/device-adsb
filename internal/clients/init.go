@@ -14,9 +14,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
-	"github.com/edgexfoundry/device-sdk-go/internal/config"
-	"github.com/edgexfoundry/device-sdk-go/internal/endpoint"
+	"github.com/FanQiang28/device-adsb/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/config"
+	"github.com/FanQiang28/device-adsb/internal/endpoint"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/coredata"
 	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"

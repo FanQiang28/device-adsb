@@ -1,4 +1,4 @@
-module github.com/edgexfoundry/device-sdk-go
+module github.com/FanQiang28/device-adsb
 
 require (
 	github.com/edgexfoundry/go-mod-core-contracts v0.1.0

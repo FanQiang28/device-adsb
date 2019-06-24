@@ -9,7 +9,7 @@ package handler
 import (
 	"fmt"
 
-	"github.com/edgexfoundry/device-sdk-go/internal/common"
+	"github.com/FanQiang28/device-adsb/internal/common"
 )
 
 func DiscoveryHandler(requestMap map[string]string) {
