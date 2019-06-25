@@ -9,6 +9,6 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.3.0
 	github.com/ugorji/go v1.1.4
-	github.com/xinminsu/go-mod-core-contracts v0.1.4
+	github.com/xinminsu/go-mod-core-contracts v0.1.10
 	gopkg.in/yaml.v2 v2.2.2
 )

@@ -42,7 +42,7 @@ func LoadProfiles(path string) error {
 	profiles, err := common.DeviceProfileClient.DeviceProfiles(ctx)
 	if err != nil {
 		common.LoggingClient.Error(fmt.Sprintf("couldn't read Device Profile from Core Metadata: %v", err))
-		return err
+		//return err
 	}
 	pMap := profileSliceToMap(profiles)
 
